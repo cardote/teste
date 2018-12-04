@@ -7,3 +7,6 @@
  */
 
 echo "teste";
+
+
+var_dump($teste);
