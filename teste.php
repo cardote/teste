@@ -6,4 +6,11 @@
  * Time: 11:37
  */
 
-echo "teste";
+$teste = 'isso e um teste';
+
+
+var_dump($teste);
+
+print_r($teste);
+
+
